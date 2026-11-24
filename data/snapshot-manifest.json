@@ -16,7 +16,7 @@
     "S45",
     "S46"
   ],
-  "snapshot_sha256": "de0330dea118f91fb7878dfbf137d1f1a0c10077f6f8ce8933ed9bbf02d622d9",
+  "snapshot_sha256": "0e7256926f35c0580106c0b85ad40bdb3de1cdcaeeb952346fe2874156c1351c",
   "audience": "public",
   "scope": "curated-workbench"
 }
