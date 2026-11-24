@@ -1,0 +1,22 @@
+{
+  "release": "r1-20261124-en",
+  "entries": 6228,
+  "four_gate": 439,
+  "four_gate_and_qc": 353,
+  "archived_portfolio": 20,
+  "verified_dft_neb": 19,
+  "tables": [
+    "S27",
+    "S28",
+    "S30",
+    "S32",
+    "S34",
+    "S42",
+    "S44",
+    "S45",
+    "S46"
+  ],
+  "snapshot_sha256": "de0330dea118f91fb7878dfbf137d1f1a0c10077f6f8ce8933ed9bbf02d622d9",
+  "audience": "public",
+  "scope": "curated-workbench"
+}
